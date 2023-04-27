@@ -39,6 +39,7 @@
     <languageCode>ru</languageCode>
   </languages>
   <catalogs>Catalog.Справочник2</catalogs>
-  <catalogs>Catalog.Справочник_Горбылева1</catalogs>
+  <catalogs>Catalog.Справочник_1</catalogs>
   <documents>Document.Документ_Горбылева</documents>
+  <accumulationRegisters>AccumulationRegister.РегистрНакопления_Новый</accumulationRegisters>
 </mdclass:Configuration>

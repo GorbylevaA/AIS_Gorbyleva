@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:AccumulationRegister xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="08f47a7b-6d90-4ac0-afb6-d5f2924491ec">
+  <producedTypes>
+    <selectionType typeId="b4d587ea-b854-4a2d-afaf-99fcef444945" valueTypeId="537b77ff-9b3a-4876-9529-7b3a0007c88c"/>
+    <listType typeId="65131747-f268-49f3-81a6-41109f3d7051" valueTypeId="6fe3f96d-1e1e-4591-899c-2e8b52994004"/>
+    <managerType typeId="2b77b756-292d-4692-88bf-570fe9b028b9" valueTypeId="66d1f167-bf12-4fe9-b0fb-c2b94d77ab15"/>
+    <recordSetType typeId="5762922b-1bce-4d59-bffd-d0729e4ca8bd" valueTypeId="886a8320-a356-4668-b8a5-f77710d0ff14"/>
+    <recordKeyType typeId="e8fb89a0-fdf2-496f-b04b-b5bfc3c42580" valueTypeId="9d157a13-8d9c-4f9b-8908-208404bf5ec1"/>
+    <recordType typeId="69744fab-ce26-43a0-bf6e-d67afff0d1ea" valueTypeId="79c065ea-bb53-48a4-9544-169c6b48a38c"/>
+  </producedTypes>
+  <name>РегистрНакопления_Новый</name>
+  <synonym>
+    <key>ru</key>
+    <value>Регистр накопления новый</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <enableTotalsSplitting>true</enableTotalsSplitting>
+</mdclass:AccumulationRegister>
