@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="6dd65307-e59c-4b77-a45d-a65db9a80278">
+  <producedTypes>
+    <objectType typeId="7a0b0685-d771-47f5-9e9a-b6f57f45621c" valueTypeId="89c53c4d-8b08-4cd1-ba3b-64e631a64858"/>
+    <refType typeId="5ba8d975-946a-483b-bd23-a51a2fa74d15" valueTypeId="d2b9a79b-ee92-465d-a154-eb39ccf23581"/>
+    <selectionType typeId="f60b6954-6820-424e-b6ec-a808d778b9a2" valueTypeId="e20a3dfb-c9cf-41c4-b15c-f19c55eca171"/>
+    <listType typeId="f9973f06-d3f4-44f9-aef3-cfe42f660086" valueTypeId="32715515-41a0-4026-9b67-9a43ef356f88"/>
+    <managerType typeId="63f42a1c-cb6e-4f29-ac75-cd8e9068893f" valueTypeId="72d2b5ff-3511-4f12-a1f4-491d2e4603de"/>
+  </producedTypes>
+  <name>Документ_Горбылева</name>
+  <synonym>
+    <key>ru</key>
+    <value>Документ горбылева</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Document.Документ_Горбылева.StandardAttribute.Number</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <numberType>String</numberType>
+  <numberLength>9</numberLength>
+  <numberAllowedLength>Variable</numberAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <postInPrivilegedMode>true</postInPrivilegedMode>
+  <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+</mdclass:Document>

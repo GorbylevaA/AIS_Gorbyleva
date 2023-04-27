@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="83039438-d507-44af-a302-90d7d6089b59">
+  <producedTypes>
+    <objectType typeId="75ce66e6-7718-445a-8665-a8a9b30e8aeb" valueTypeId="38e3129d-8f0c-4e58-a790-93476de88441"/>
+    <refType typeId="0c1006a7-0886-4be7-820b-11206b1a4dc0" valueTypeId="bc68510a-9525-49b5-909d-b04e91ecc202"/>
+    <selectionType typeId="c77ff921-2d73-4f25-9697-b149f86f31d6" valueTypeId="00452a78-5bfa-45e5-a4ca-724db2251d61"/>
+    <listType typeId="d2953a85-cd03-4f6e-9773-d5c4adfeaff5" valueTypeId="5f2ef3ce-15ed-4bca-ab3a-6b6bca742d46"/>
+    <managerType typeId="2f4719b1-8b50-43d2-983e-7ded313ba1d3" valueTypeId="9a0bf93a-2825-4e19-bed9-43a03babced1"/>
+  </producedTypes>
+  <name>Справочник_Горбылева1</name>
+  <synonym>
+    <key>ru</key>
+    <value>Справочник горбылева1</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Справочник_Горбылева1.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Справочник_Горбылева1.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
